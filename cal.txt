@@ -13,7 +13,7 @@ public class calculator {
 
         System.out.print("Enter an operator ");
             
-       String operator = abenes.next();
+       String operator = harlan.next();
 
        
         
