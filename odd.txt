@@ -2,7 +2,7 @@ package Scanner;
 import java.util.Scanner;
 
 public class calculator {
-    package AQUINO_and_BISWELAN;
+    package HARLAN_and_AIDS;
 import java.util.Scanner;
 public class OddEvenTable {
     public static void main(String[] args) {
